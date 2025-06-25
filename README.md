@@ -1,5 +1,7 @@
 # 👩‍💻 Gabriela Rodrigues • Engenheira de Dados
 
+![image](https://github.com/user-attachments/assets/a01de6eb-3005-4e4a-bf7a-8e0d18a1461d)
+
 Olá! Seja muito bem-vindo(a) ao meu espaço no GitHub 💜  
 Sou apaixonada por dados, tecnologia e pelo poder de transformar conhecimento em impacto. Aqui compartilho projetos práticos, estudos e iniciativas que refletem minha trajetória na Engenharia de Dados, com foco em soluções no ecossistema Microsoft.
 
